@@ -1,2 +1,2 @@
-# primer-github1
+# primer-README
 Primer repo de práctica GitHub
